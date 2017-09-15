@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,CAAC;EACA,UAAU,ECAK,OAAO;;;ADGvB,EAAE;EACD,KAAK,ECHY,OAAO",
+"sources": ["../sass/custom.scss","../sass/variable.scss"],
+"names": [],
+"file": "global.css"
+}
